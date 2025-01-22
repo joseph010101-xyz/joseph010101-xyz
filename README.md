@@ -16,7 +16,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5xMDJlNTVtbm5zejVuaTl1cHUzbGlxejA5cTBtcWR6MDl1ZXZoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JaVlIs5XVn13iJgSo4/giphy.gif" width="70"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5xMDJlNTVtbm5zejVuaTl1cHUzbGlxejA5cTBtcWR6MDl1ZXZoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JaVlIs5XVn13iJgSo4/giphy.gif" width="60"/>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlnajJjeWk1Z2JxdTQyNnk0eXptZjgxaHRocXpjMDh1aTMzdGhpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4lFDID7oR4bXeT7TXC/giphy.gif" width="60"/>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRpb3N4OWkwNXZidzl5bmo1YnU4Nm53ZTNuNzJwaGloZjFzdG8wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3Fy9XsNSCNyarmg/giphy.gif" width="60"/>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXV0bGRrODVyaXBoemQwb21wMWYxem54Yjl2dmlvYWt3ZnpidXZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rYoaOjXiAGR1Wl51UE/giphy.gif" width="60"/>
