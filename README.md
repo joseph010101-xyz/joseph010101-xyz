@@ -22,3 +22,10 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXV0bGRrODVyaXBoemQwb21wMWYxem54Yjl2dmlvYWt3ZnpidXZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rYoaOjXiAGR1Wl51UE/giphy.gif" width="60"/>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJtZ3F0dGtmdWF1OGg3ODM3dGMxY2dkMGVncHA2bWI3ZDB2N3dxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HjEg2e7Q8Teqtz28ur/giphy.gif" width="60"/>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGE4MzFnbnkwaGt5eWVzOTBrZ2w1Z3l1YjdvMXY2bTRjZTUxcG1pbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/LnnscyxZ38eUV740Vm/giphy.gif" width="60"/>
+
+<!-- Metrics (lowlighter/metrics) -->
+![Metrics](https://metrics.lecoq.io/joseph010101-xyz?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&languages.limit=6&languages.colors=github&isocalendar.duration=half-year)
+
+<!-- Descripción rápida de los widgets mostrados -->
+- **Commits recientes:** Calendario de contribuciones (widget isocalendar)
+- **Lenguajes más usados:** Gráfica de lenguajes principales (widget languages)
