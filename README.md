@@ -26,6 +26,7 @@
 <!-- Metrics (lowlighter/metrics) -->
 ![Metrics](https://metrics.lecoq.io/joseph010101-xyz?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&languages.limit=6&languages.colors=github&isocalendar.duration=half-year)
 
+![Metrics](./metrics.svg)
 <!-- Descripción rápida de los widgets mostrados -->
 - **Commits recientes:** Calendario de contribuciones (widget isocalendar)
 - **Lenguajes más usados:** Gráfica de lenguajes principales (widget languages)
